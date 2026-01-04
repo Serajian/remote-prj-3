@@ -6,6 +6,6 @@ package main
 
 import "fmt"
 
-func mainly() {
-    fmt.Println("hello world")
+func main() {
+    fmt.Println("Hello World")
 }
